@@ -1,0 +1,131 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.95 - Jan2023-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 07/02/2024  Time: 16:43:39.846                              
+
+ => PCR file code: SSM-0
+ => DAT file code: SSM-0.dat            -> Relative contribution: 1.0000                                                            
+ => Title: SSM-0
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    5th default profile function was selected
+
+ => Data supplied in free format for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.9100
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    8.00
+ ==> Angular range, step and number of points:
+     2Thmin:      10.000000  2Thmax:      90.000000  Step:       0.010000  No. of points:   8001
+ =>-------> Pattern#  1
+ => Profile Matching (fixed scale) for phase: 1
+ => Scor: 2.5641
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:    7
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Tetragonal                              I 4/m m m           
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:    76/2
+
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              4.05262   0.01953
+                              4.05262   0.01953
+                             12.58821   0.06066
+                             90.00000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.001000000     0.000000000
+ => Eta(p-v) or m(p-vii) :    0.52666   0.00562
+ => Overall tem. factor  :    3.84793   0.01952
+ => Halfwidth parameters :    0.00413   0.00000
+                             -0.00762   0.00000
+                              0.00625   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.01877   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0568    0.0000
+ => Refined wavelength:  -0.000451  0.007424
+ => Background Polynomial Parameters ==>
+                               158.68      0.0000    
+                              -164.84      0.0000    
+                               371.76      2.2890    
+                              -269.63      2.1941    
+                              -260.43      0.0000    
+                               265.83      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0018  0.0000
+ => Sin(2theta)-shift parameter :  -0.0074  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle: 12 => MaxCycle: 15
+ => N-P+C:  7994
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  9.70     Rwp:  13.3     Rexp:    5.48 Chi2:  5.93      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  22.3     Rwp:  21.7     Rexp:    8.93 Chi2:  5.93    
+ => Deviance:  0.586E+05     Dev*  :   7.321    
+ => DW-Stat.:    0.3307     DW-exp:     1.9324
+ => N-sigma of the GoF:      311.614
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  3365
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  10.3     Rwp:  12.9     Rexp:    4.51 Chi2:  8.18      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  15.0     Rwp:  16.7     Rexp:    5.85 Chi2:  8.18    
+ => Deviance:  0.276E+05     Dev*  :   8.201    
+ => DW-Stat.:    0.5696     DW-exp:     1.8972
+ => N-sigma of the GoF:      294.420
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   14.1    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     Tetragonal
+ => Bragg R-factor:   1.87       Vol:  206.745( 1.726)  Fract(%):    0.00( 0.00)
+ => Rf-factor=  2.53             ATZ:           0.000   Brindley:  1.0000
+
+ 
+              CPU Time:     4.031 seconds
+                            0.067 minutes
+
+ => Run finished at:     Date: 07/02/2024  Time: 16:43:43.929                              

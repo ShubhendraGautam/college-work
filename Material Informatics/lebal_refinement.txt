@@ -1,0 +1,17 @@
+Lebal Refinement:
+Red -> Experimental
+Black -> Generated Pattern
+Green  -> Braggs position
+
+Full Prof -> EDPCR -> New Data -> General -> Optimized -> Pattern -> Add -> 
+Data File -> Pattern and Calculation ->  Peak shape -> Pseudo Voight -> Range (From file) -> Bakground -> 
+
+Phases->Add->Cubic->Lebal->profile matching with constant scale factor->Calculated automatically->Contibution to pattern->Xray->Pseudo Voight->
+Symmetry-> Pm -3 m -> Symmetry optimize automatic -> Size of refinement -> Profile Section -> Give values -> Fix all -> OK
+
+Each time save and reload PCR file
+
+
+Important Terms:
+Pseudo Voight (Lorenzian + Gaussian)
+COD Database

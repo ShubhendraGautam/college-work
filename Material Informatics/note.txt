@@ -1,0 +1,26 @@
+X-Ray generation
+X-Ray Floresecence
+Elastic/Inelastic scattering
+K-alpha-> used in le bail refinement, K-beta
+Difraction, Absorption, Spectroscopy
+X-Ray photo electron scectroscopy
+Photoelectron, binding energy, threshold frequency
+Photoelectric effect, Valence band
+Auger electron
+Orbital angular momentum, spin angular momentum
+Spin Orbit Coupling
+
+Due to diif in the BE the SOCE they must differ SOCE in diff elemen.
+Carbon Correction
+Carbon peak->286.4
+
+Spin Orbit Coupling energy
+
+Crystallite size, grain size, particle size
+Polycrystalline, single crystalline
+in polycrystalline: Crystallite size < grain size < particle size
+In single crystalline: all are same
+FWHM-> Full width at half maxima, HWHM->Half Width at half maxima
+Debye equation for XRD peak, Debye-Scherrer Equation 
+
+
